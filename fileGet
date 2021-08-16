@@ -1,12 +1,18 @@
-{
-	"update": [{
-			"Id": "121"
-		},
-		{
-			"Id": "121"
-		},
-		{
-			"Id": "123"
-		}
-	]
-}
+  {
+  	"update": [
+  		[
+  			[{
+  				"latitude": "44.33",
+  				"longitude": "44.33",
+  				"name": "test1",
+  				"Notification": "true"
+  			}],
+  			[{
+  				"latitude": "44.33",
+  				"longitude": "44.33",
+  				"name": "test2",
+  				"Notification": "false"
+  			}]
+  		]
+  	]
+  }
